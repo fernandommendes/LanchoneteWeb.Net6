@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LanchoneteWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LanchoneteWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\Full-Cart-icon.png",
+      "PackagePath": "staticwebassets\\images\\Full-Cart-icon.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\images\\Home-iconred.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\adminarea.jpg",
+      "PackagePath": "staticwebassets\\images\\adminarea.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\carousel11.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel11.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\carousel12.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel12.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\carousel13.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel13.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\carousel14.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel14.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\carousel15.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel15.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\carousel16.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel16.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\carousel17.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel17.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\delete.png",
+      "PackagePath": "staticwebassets\\images\\delete.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\lanchemac2.png",
+      "PackagePath": "staticwebassets\\images\\lanchemac2.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\lanchevegano1.jpg",
+      "PackagePath": "staticwebassets\\images\\lanchevegano1.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-caixa-de-selecção-seleccionada-2-48.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-caixa-de-selecção-seleccionada-2-48.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-comida-fast-food-street-food-18-50.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-comida-fast-food-street-food-18-50.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-comida-natural-50.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-comida-natural-50.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-comida-natural-80.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-comida-natural-80.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-desconto-48.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-desconto-48.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-email-open-50.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-email-open-50.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-get-dressed-32.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-get-dressed-32.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-get-dressed-50.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-get-dressed-50.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-hamburger-32.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-hamburger-32.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-hamburger-58.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-hamburger-58.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-love-50.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-love-50.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\leiaute\\icons8-speaker-phone-50.png",
+      "PackagePath": "staticwebassets\\images\\leiaute\\icons8-speaker-phone-50.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\login1.jpg",
+      "PackagePath": "staticwebassets\\images\\login1.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\login_48.png",
+      "PackagePath": "staticwebassets\\images\\login_48.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\negado1.jpg",
+      "PackagePath": "staticwebassets\\images\\negado1.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\registro1.jpg",
+      "PackagePath": "staticwebassets\\images\\registro1.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\remove.ico",
+      "PackagePath": "staticwebassets\\images\\remove.ico"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LanchoneteWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LanchoneteWeb.props",
+      "PackagePath": "build\\LanchoneteWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LanchoneteWeb.props",
+      "PackagePath": "buildMultiTargeting\\LanchoneteWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LanchoneteWeb.props",
+      "PackagePath": "buildTransitive\\LanchoneteWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
