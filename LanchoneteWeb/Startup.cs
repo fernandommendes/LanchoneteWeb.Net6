@@ -1,4 +1,5 @@
-﻿using LanchoneteWeb.Context;
+﻿using LanchoneteWeb.Areas.Admin.Servicos;
+using LanchoneteWeb.Context;
 using LanchoneteWeb.Models;
 using LanchoneteWeb.Repositories;
 using LanchoneteWeb.Repositories.Interfaces;
@@ -42,6 +43,7 @@ public class Startup
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
         services.AddTransient<IPedidoRepository, PedidoRepository>();
         services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+        services.AddScoped<RelatorioVendasService>();
 
         services.AddAuthorization(options =>
         {
