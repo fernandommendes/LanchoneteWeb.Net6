@@ -27,6 +27,8 @@ public class Startup
 
         services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
+        services.Configure<ConfigurationImagens>(Configuration.GetSection("ConfigurationPastaImagens"));
+
         services.Configure<IdentityOptions>(options =>
         {
             //Default Password settings

@@ -141,12 +141,28 @@
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
     },
     {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\produtos\\IMG_5227.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\IMG_5227.jpg"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\produtos\\IMG_5288.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\IMG_5288.jpg"
+    },
+    {
       "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\registro1.jpg",
       "PackagePath": "staticwebassets\\images\\registro1.jpg"
     },
     {
       "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\remove.ico",
       "PackagePath": "staticwebassets\\images\\remove.ico"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\images\\visualizar1.jpg"
     },
     {
       "Id": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\js\\site.js",
