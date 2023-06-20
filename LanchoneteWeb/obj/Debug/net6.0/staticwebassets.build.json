@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OzBRmaww+3S+SIviELzlgmhp/uoQSd/j9K1de2QtOHA=",
+  "Hash": "a7XMkF/kKtaytSmqBft3mhMCMfFDmyYjhO7gbHSqx8U=",
   "Source": "LanchoneteWeb",
   "BasePath": "_content/LanchoneteWeb",
   "Mode": "Default",
@@ -644,23 +644,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\produtos\\IMG_5227.jpg"
-    },
-    {
-      "Identity": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\produtos\\IMG_5288.jpg",
-      "SourceId": "LanchoneteWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\",
-      "BasePath": "_content/LanchoneteWeb",
-      "RelativePath": "images/produtos/IMG_5288.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\produtos\\IMG_5288.jpg"
     },
     {
       "Identity": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\images\\registro1.jpg",
