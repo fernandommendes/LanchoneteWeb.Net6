@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a7XMkF/kKtaytSmqBft3mhMCMfFDmyYjhO7gbHSqx8U=",
+  "Hash": "eor2pbCMVEiHcI27Ng4/pJx5P00aYfGGtf/Ale8jfg4=",
   "Source": "LanchoneteWeb",
   "BasePath": "_content/LanchoneteWeb",
   "Mode": "Default",
@@ -1698,6 +1698,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\reports\\lanchesCategoria.frx",
+      "SourceId": "LanchoneteWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Codigos\\LanchoneteWeb\\LanchoneteWeb\\wwwroot\\",
+      "BasePath": "_content/LanchoneteWeb",
+      "RelativePath": "reports/lanchesCategoria.frx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reports\\lanchesCategoria.frx"
     }
   ]
 }
